@@ -1,9 +1,4 @@
-
-<div align="center">
- 
-<h1 align="center"><b>Hi, I'm Ulisses Malanski!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
-</div>
-
+  
 - 👨‍🎓 I am a Full Stack Web Developer Certificated by Awari School.
 - 👨‍🎨 I am graduated in Drawing (Art education Licentiate)
 - 👀 I’m interested in technologies, visual art and music.  
@@ -14,7 +9,7 @@
 - I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
 - I`m currently learning and developing skills on:  
   
-<div align="center">
+
 
 
 |FrontEND Technologies           |       |BackEND principles          |
@@ -28,7 +23,7 @@
 |⭐Chakra, MUI, Fontawesome      |       |⭐Security                    |
 |⭐SEO                           |       |⭐AWS                         |
 |⭐JQuery                        |       |⭐API REST                    |
-</div>
+
  
       
 - SOFTWARES I like to use on my work:
