@@ -12,7 +12,7 @@
 - I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
 - I`m currently learning and developing skills on:  
   
-
+<div align="center">
 |FrontEND Technologies         |       |BackEND principles        |
 | :--------------------------- | ----- | :----------------------- |
 |⭐SASS SCSS                   |       |⭐SQL, Sequelize, Postgres |
@@ -24,7 +24,7 @@
 |⭐Chakra, MUI, Fontawesome    |       |⭐Security                 |
 |⭐SEO                         |       |⭐AWS                      |
 |⭐JQuery                      |       |⭐API REST                 |
-
+</div>
 - SOFTWARES I do use on my projects:
 
 | Web Dev | Design+Art | Audio       |
