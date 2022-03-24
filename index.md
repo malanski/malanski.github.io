@@ -2,8 +2,6 @@
 <div align="center">
  
 <h1 align="center"><b>Hi, I'm Ulisses Malanski!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
 </div>
 
 - 👨‍🎓 I am a Full Stack Web Developer Certificated by Awari School.
@@ -47,6 +45,12 @@
       - Nuendo
       - Fruit Loops 
 - I can work both on Windows and Linux(and WLS).   
+
+<div align="center">
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
+</div>
           
 
 <!---
