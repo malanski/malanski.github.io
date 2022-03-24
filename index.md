@@ -1,5 +1,6 @@
 
 <a href="https://www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:malanskiwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 ## Diploma, Courses and certificates
 - Full Stack Web Developer Certificated by Awari School 2022.
@@ -44,7 +45,7 @@
 | Node    |            |             |
 
 
-- I can work both on Windows and Linux(and WLS).   
+## I can work both on Windows and Linux(and WLS).   
 
 
  
@@ -71,7 +72,7 @@
 
   
 
-### Links to Other Projects by Ulisses Malanski  
+## Links to Other Projects by Ulisses Malanski  
  
 - <a href="https://malanski.github.io/cron/" title="Cronometer" target="_blank">Cron</a>  
 - <a href="https://poke-store-next.vercel.app//" title="Nextjs Ecommerce Pokemon Store" target="_blank">Poké-Store Next Js</a>
