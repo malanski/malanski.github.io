@@ -33,7 +33,10 @@
 | ------- | ---------- | ----------- |
 | VS code | Photoshopp | Ableton Live|
 | Figma   | Illustrator| Nuendo      |
-| Premiere| Premiere   | Fruit Loops |
+| Adobe XD| Premiere   | Fruit Loops |
+| GIT     |            |             |
+| Dbeaver |            |             |
+| Node    |            |             |
 
 
 - I can work both on Windows and Linux(and WLS).   
