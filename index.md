@@ -17,17 +17,17 @@
 - I`m currently learning and developing skills on:  
   
   
-|FrontEND Technologies           | 🌸 🌸 |BackEND principles          |
-|:------------------------------ | ----- |:--------------------------|
-|SASS SCSS                       | 🌸 🌸 | SQL, Sequelize, Postgres   |
-|JavaScript                      | 🌸 🌸 |Dbeave                      |
-|Nextjs                          | 🌸 🌸 |SCRUD                       |
-|Reactjs                         | 🌸 🌸 |TypeScript                  |
-|HTML5                           | 🌸 🌸 |APACHE                      |
-|Bootstrap                       | 🌸 🌸 |Cloud                       |
-|Chakra, MUI, Fontawesome        | 🌸 🌸 |Security                    |
-|SEO                             | 🌸 🌸 |AWS                         |
-|jQuery                          | 🌸 🌸 |API REST                    |
+|FrontEND Technologies            | 🌸 🌸 |BackEND principles          |
+| :------------------------------ | ----- | :--------------------------|
+|SASS SCSS                        | 🌸 🌸 | SQL, Sequelize, Postgres   |
+|JavaScript                       | 🌸 🌸 |Dbeave                      |
+|Nextjs                           | 🌸 🌸 |SCRUD                       |
+|Reactjs                          | 🌸 🌸 |TypeScript                  |
+|HTML5                            | 🌸 🌸 |APACHE                      |
+|Bootstrap                        | 🌸 🌸 |Cloud                       |
+|Chakra, MUI, Fontawesome         | 🌸 🌸 |Security                    |
+|SEO                              | 🌸 🌸 |AWS                         |
+|jQuery                           | 🌸 🌸 |API REST                    |
  
       
 - SOFTWARES I like to use on my work:
