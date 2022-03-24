@@ -18,7 +18,7 @@
 
 
 |FrontEND Technologies           |       |BackEND principles          |
-| :---------------------------   | ----- | :------------------------- |
+| :--------------------------- | ----- | :------------------------- |
 |⭐SASS SCSS                     |       |⭐SQL, Sequelize, Postgres   |
 |⭐JavaScript                    |       |⭐Dbeaver                      |
 |⭐Nextjs                        |       |⭐SCRUD                       |
