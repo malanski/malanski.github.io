@@ -60,15 +60,14 @@
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">   
-</div>  
-
-<br> 
+</div>
+  
 <div align="center">
 <a href="https://www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
-### Links to Other Projects by Ulisses Malanski<br>  
+### Links to Other Projects by Ulisses Malanski  
  
 - <a href="https://malanski.github.io/cron/" title="Cronometer" target="_blank">Cron</a>  
 - <a href="https://poke-store-next.vercel.app//" title="Nextjs Ecommerce Pokemon Store" target="_blank">Poké-Store Next Js</a>
