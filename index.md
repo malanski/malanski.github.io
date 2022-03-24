@@ -8,13 +8,17 @@
  
 ## What I do already know:  
 - Create Responsive web sites and applications whit HTML, CSS and JavaScript.
-- Use supersets like SCSS and TypeScript.  
-- Nextjs and Reactjs applications.
+- Build Nextjs and Reactjs applications.
 - Access REST API with fetching, Axios and SWR.
+- Deploy, Commit, Pullrequest, Merge on Git, Github, Gitlab, Bitbucket, Heroku, Vercel.
 - Data Base: Select, Create, Read, Update and Delete.
-- Deploy, Commit, Pullrequest, Merge on Git, Github, Gitlab, Heroku, Vercel.
+- Use supersets like SCSS and TypeScript
+- To talk in public teaching adults, teenagers and childrens.
+- Develop images, animations, paintings using perspective, human proportion, light and shadow and realistic textures.
+- Create digital paintings and vector drawings with Photoshopp and Illustrator.
+- Reverse engeneering on any audio visual production.
 
-## Full Stack   
+## Full Stack Abilities:  
  
 |FrontEND Technologies         |       |BackEND principles        |
 | :--------------------------- | ----- | :----------------------- |
