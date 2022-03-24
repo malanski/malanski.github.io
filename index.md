@@ -12,17 +12,17 @@
 
 
 
-|FrontEND Technologies           |       |BackEND principles          |
-| :--------------------------- | ----- | :------------------------- |
-|⭐SASS SCSS                     |       |⭐SQL, Sequelize, Postgres   |
-|⭐JavaScript                    |       |⭐Dbeaver                      |
-|⭐Nextjs                        |       |⭐SCRUD                       |
-|⭐Reactjs                       |NODE   |⭐TypeScript                  |
-|⭐HTML5                         |       |⭐APACHE                      |
-|⭐Bootstrap                     |       |⭐Cloud                       |
-|⭐Chakra, MUI, Fontawesome      |       |⭐Security                    |
-|⭐SEO                           |       |⭐AWS                         |
-|⭐JQuery                        |       |⭐API REST                    |
+|FrontEND Technologies         |       |BackEND principles        |
+| :--------------------------- | ----- | :----------------------- |
+|⭐SASS SCSS                   |       |⭐SQL, Sequelize, Postgres |
+|⭐JavaScript                  |       |⭐Dbeaver                  |
+|⭐Nextjs                      |       |⭐SCRUD                    |
+|⭐Reactjs                     |NODE   |⭐TypeScript               |
+|⭐HTML5                       |       |⭐APACHE                   |
+|⭐Bootstrap                   |       |⭐Cloud                    |
+|⭐Chakra, MUI, Fontawesome    |       |⭐Security                 |
+|⭐SEO                         |       |⭐AWS                      |
+|⭐JQuery                      |       |⭐API REST                 |
 
  
       
@@ -52,7 +52,7 @@
 <img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">     
 </div>
   
-<div align="center" style="display: inline-block;"> <br>
+<div align="center" style="display: inline-block;">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
