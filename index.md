@@ -16,7 +16,6 @@
 - I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
 - I`m currently learning and developing skills on:  
   
-<div align="center">
   
 |FrontEND Technologies           | 🌸 🌸 |BackEND principles          |
 |:------------------------------ | ----- |:--------------------------|
@@ -30,8 +29,6 @@
 |SEO                             | 🌸 🌸 |AWS                         |
 |jQuery                          | 🌸 🌸 |API REST                    |
  
-</div>
-
       
 - SOFTWARES I like to use on my work:
   * Visual Art & Design.🧑‍🎨 💻 📱 ⌨️
