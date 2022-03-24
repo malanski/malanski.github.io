@@ -41,24 +41,17 @@
       - Fruit Loops 
 - I can work both on Windows and Linux(and WLS).   
 
-<div align="center">
+
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
-</div>
+
           
-
-<!---
-TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
---->
-##
-<br>
-
 <div align="center">
-    <a href="https://www.facebook.com/ulisses.malanski/">
-      <img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">
-     
+<a href="https://www.facebook.com/ulisses.malanski/">
+<img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">     
 </div>
+  
 <div align="center" style="display: inline-block;"> <br>
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -71,9 +64,9 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
 
 <br> 
 <div align="center">
-      <a href="https://www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </div>
+<a href="https://www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
   
 ### Links to Other Projects by Ulisses Malanski<br>  
  
@@ -83,7 +76,7 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
 - <a href="https://malanski.github.io/GessingColorGame/" title="Color Game JavaScript CSS HTML" target="_blank">Gessing Color Game</a>
 - <a href="https://malanski.github.io/projeto-react-app2/" title="Artistic Portfolium" target="_blank">Portfolium React App</a>
 - <a href="https://malanski.github.io/CalculatorX/" title="JavaScript study Calculator">Calculator</a>  
-- <a href="https://malanski.github.io/pokeLoja2/" title="My Firts Vanilla Ecommerce project">Vanilla Ecommerce Poke Card Game Styled</a>  
+- <a href="https://malanski.github.io/pokeLoja2/" title="My Firts Vanilla Ecommerce project">Vanilla Ecommerce Poke Card Game Styled</a>
 - <a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
 - <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
             
