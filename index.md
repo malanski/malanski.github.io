@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+  
+# Ulisses Malanski (1985) 
+  
+## Web Developer FrontEnd 
+Certificated Web Developer by Awari School 2022
+Graduated in Drawing Licentiate (Art teaching) at EMBAP 2010
+  
+### Can Work with:
+- Nextjs
+- Reactjs
+- HTML5
+- CSS SASS SCSS
+- JavaScript ES6 ESnext
+- TypeScript
+- Node
+- SQL Sequelize Postgres
+- API REST
+- Deploy on Heroku, Vercel
+- Cloud
+- Git and Github
 
 You can use the [editor on GitHub](https://github.com/malanski/malanski.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
