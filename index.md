@@ -19,26 +19,21 @@
 |⭐JavaScript                  |       |⭐Dbeaver                  |
 |⭐Nextjs                      |       |⭐SCRUD                    |
 |⭐Reactjs                     |NODE   |⭐TypeScript               |
-|⭐HTML5                       |       |⭐APACHE                   |
-|⭐Bootstrap                   |       |⭐Cloud                    |
+|⭐HTML5                       |GIT    |⭐APACHE                   |
+|⭐Bootstrap                   |Github |⭐Cloud                    |
 |⭐Chakra, MUI, Fontawesome    |       |⭐Security                 |
 |⭐SEO                         |       |⭐AWS                      |
 |⭐JQuery                      |       |⭐API REST                 |
 
-      
-- SOFTWARES I like to use on my work:
-  * Visual Art & Design.🧑‍🎨 💻 📱 ⌨️
-      - VS code
-      - Figma
-      - Adobe XD
-      - Adobe Illustrator
-      - Adobe Photoshopp
-      - Adobe Premiere  
-     
-  * Audio Editing & Music Production. 🔉 🎶 🎸 🥁 🎵 🎹 🎤 🎼
-      - Ableton Live
-      - Nuendo
-      - Fruit Loops 
+- SOFTWARES I do use on my projects:
+
+| Web Dev | Design+Art | Audio       |
+| ------- | ---------- | ----------- |
+| VS code | Photoshopp | Ableton Live|
+| Figma   | Illustrator| Nuendo      |
+| Premiere| Premiere   | Fruit Loops |
+
+
 - I can work both on Windows and Linux(and WLS).   
 
 
