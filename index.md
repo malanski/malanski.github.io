@@ -15,22 +15,20 @@
 - HTML, CSS-SASS, Javascript, React, Next, Node, Git and Github! 🔥
 - I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
 - I`m currently learning and developing skills on:  
+  
 <div align="center">
-
   
 |🔥FrontEND Technologies like:🔥 | 🌸 🌸 |🔥BackEND principles like:🔥 |
-|:--- | --- | :---|
-|SASS SCSS  🧑‍🎨 | 🌸 🌸 | SQL, Sequelize, Postgres💾 |
-|JavaScript | 🌸 🌸 |Dbeaver💾 |
-|Nextjs  🥑 | 🌸 🌸 |SCRUD |
-|Reactjs🤸 | 🌸 🌸 |TypeScript |
-|HTML5  🚴 | 🌸 🌸 |APACHE |
-|Bootstrap | 🌸 🌸 |Cloud |
-|Chakra, MUI, Fontawesome | 🌸 🌸 |Security  🤼 |
-|SEO | 🌸 🌸 |AWS |
-|jQuery | 🌸 🌸 |API REST  :ninja:|
-
-
+|:----------------------------- | ----- | :--------------------------|
+|SASS SCSS  🧑‍🎨                   | 🌸 🌸 | SQL, Sequelize, Postgres💾 |
+|JavaScript                      | 🌸 🌸 |Dbeaver💾 |
+|Nextjs  🥑                      | 🌸 🌸 |SCRUD |
+|Reactjs🤸                       | 🌸 🌸 |TypeScript |
+|HTML5  🚴                       | 🌸 🌸 |APACHE |
+|Bootstrap                       | 🌸 🌸 |Cloud |
+|Chakra, MUI, Fontawesome        | 🌸 🌸 |Security  🤼 |
+|SEO                             | 🌸 🌸 |AWS |
+|jQuery                          | 🌸 🌸 |API REST  :ninja:|
 </div>
 
       
