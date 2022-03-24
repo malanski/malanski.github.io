@@ -16,18 +16,21 @@
 - I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
 - I`m currently learning and developing skills on:  
   
-  
-|FrontEND Technologies            | 🌸 🌸 |BackEND principles          |
-| :------------------------------ | ----- | :--------------------------|
-|SASS SCSS                        | 🌸 🌸 | SQL, Sequelize, Postgres   |
-|JavaScript                       | 🌸 🌸 |Dbeave                      |
-|Nextjs                           | 🌸 🌸 |SCRUD                       |
-|Reactjs                          | 🌸 🌸 |TypeScript                  |
-|HTML5                            | 🌸 🌸 |APACHE                      |
-|Bootstrap                        | 🌸 🌸 |Cloud                       |
-|Chakra, MUI, Fontawesome         | 🌸 🌸 |Security                    |
-|SEO                              | 🌸 🌸 |AWS                         |
-|jQuery                           | 🌸 🌸 |API REST                    |
+<div align="center">
+
+
+|FrontEND Technologies           |       |BackEND principles          |
+| :---------------------------   | ----- | :------------------------- |
+|⭐SASS SCSS                     |       |⭐SQL, Sequelize, Postgres   |
+|⭐JavaScript                    |       |⭐Dbeaver                      |
+|⭐Nextjs                        |       |⭐SCRUD                       |
+|⭐Reactjs                       |NODE   |⭐TypeScript                  |
+|⭐HTML5                         |       |⭐APACHE                      |
+|⭐Bootstrap                     |       |⭐Cloud                       |
+|⭐Chakra, MUI, Fontawesome      |       |⭐Security                    |
+|⭐SEO                           |       |⭐AWS                         |
+|⭐JQuery                        |       |⭐API REST                    |
+</div>
  
       
 - SOFTWARES I like to use on my work:
