@@ -61,7 +61,7 @@
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
-<img height="80" style="border-radius: 50px;" src="https://github.com/malanski/poke-store-next/blob/main/public/awari.png">  
+<img height="80" style="border-radius: 50px;" src="awari.png">  
 
 ### Links to Other Projects by Ulisses Malanski  
  
