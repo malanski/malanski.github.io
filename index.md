@@ -15,6 +15,7 @@
 - Deploy, Commit, Pullrequest, Merge on Git, Github, Gitlab, Heroku, Vercel.
 
 ## Full Stack   
+ 
 |FrontEND Technologies         |       |BackEND principles        |
 | :--------------------------- | ----- | :----------------------- |
 |⭐SASS SCSS                   |       |⭐SQL, Sequelize, Postgres |
