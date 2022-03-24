@@ -1,23 +1,20 @@
 
 <a href="https://www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-- Full Stack Web Developer Certificated by Awari School.
-- Drawing Graduation (Art education Licentiate) at EMBAP-Brazil.
-- Graphic and Product Design Certificated by ENSITEC.
+## Diploma, Courses and certificates
+- Full Stack Web Developer Certificated by Awari School 2022.
+- Drawing Graduation (Art education Licentiate) at EMBAP-Brazil 2010.
+- Graphic and Product Design Certificated by ENSITEC 2006.
  
-   
+## What I do already know:  
 - Create Responsive web sites and applications whit HTML, CSS and JavaScript.
 - Use supersets like SCSS and TypeScript.  
 - Nextjs and Reactjs applications.
 - Access REST API with fetching, Axios and SWR.
 - Data Base: Select, Create, Read, Update and Delete.
 - Deploy, Commit, Pullrequest, Merge on Git, Github, Gitlab, Heroku, Vercel.
-- 
 
-
-- Developing skills on:  
-   
+## Full Stack   
 |FrontEND Technologies         |       |BackEND principles        |
 | :--------------------------- | ----- | :----------------------- |
 |⭐SASS SCSS                   |       |⭐SQL, Sequelize, Postgres |
@@ -30,7 +27,7 @@
 |⭐SEO                         |       |⭐AWS                      |
 |⭐JQuery                      |       |⭐API REST                 | 
   
-- SOFTWARES I do use on my projects:
+## SOFTWARES I do use on my projects:
 
 | Web Dev | Design+Art | Audio       |
 | ------- | ---------- | ----------- |
