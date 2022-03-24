@@ -47,8 +47,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
 
           
-<a href="https://www.facebook.com/ulisses.malanski/">
-<img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">     
+<img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">   
+  
+    
+<img  height="180" style="border-radius: 20px;" src="https://github.com/malanski/poke-store-next/blob/main/public/awari.png">  
   
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
