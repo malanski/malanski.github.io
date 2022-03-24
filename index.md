@@ -2,17 +2,22 @@
 <a href="https://www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-- 👨‍🎓 I am a Full Stack Web Developer Certificated by Awari School.
-- 👨‍🎨 I am graduated in Drawing (Art education Licentiate)
-- 👀 I’m interested in technologies, visual art and music.  
-- 🌱 I’m dedicated to Web Development and Web Full Stack!
-- 💞️ I’m looking to collaborate on creativity with everyone. 
-- This is my [youtube channel](https://www.youtube.com/channel/UCMO8be295Zay2OajfewJpMA) 
-- HTML, CSS-SASS, Javascript, React, Next, Node, Git and Github! 🔥
-- I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
-- I`m currently learning and developing skills on:  
-  
+- Full Stack Web Developer Certificated by Awari School.
+- Drawing Graduation (Art education Licentiate) at EMBAP-Brazil.
+- Graphic and Product Design Certificated by ENSITEC.
  
+   
+- Create Responsive web sites and applications whit HTML, CSS and JavaScript.
+- Use supersets like SCSS and TypeScript.  
+- Nextjs and Reactjs applications.
+- Access REST API with fetching, Axios and SWR.
+- Data Base: Select, Create, Read, Update and Delete.
+- Deploy, Commit, Pullrequest, Merge on Git, Github, Gitlab, Heroku, Vercel.
+- 
+
+
+- Developing skills on:  
+   
 |FrontEND Technologies         |       |BackEND principles        |
 | :--------------------------- | ----- | :----------------------- |
 |⭐SASS SCSS                   |       |⭐SQL, Sequelize, Postgres |
