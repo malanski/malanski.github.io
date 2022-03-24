@@ -13,6 +13,7 @@
 - I`m currently learning and developing skills on:  
   
 <div align="center">
+  
 |FrontEND Technologies         |       |BackEND principles        |
 | :--------------------------- | ----- | :----------------------- |
 |⭐SASS SCSS                   |       |⭐SQL, Sequelize, Postgres |
@@ -23,7 +24,8 @@
 |⭐Bootstrap                   |Github |⭐Cloud                    |
 |⭐Chakra, MUI, Fontawesome    |       |⭐Security                 |
 |⭐SEO                         |       |⭐AWS                      |
-|⭐JQuery                      |       |⭐API REST                 |
+|⭐JQuery                      |       |⭐API REST                 | 
+  
 </div>
 - SOFTWARES I do use on my projects:
 
