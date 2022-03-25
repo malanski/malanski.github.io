@@ -51,7 +51,6 @@
  
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=SauloMaia01&hide_border=true&theme=nightowl&show_icons=true" />
 
           
 <img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">   
