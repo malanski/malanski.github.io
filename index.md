@@ -58,33 +58,29 @@
     
 
 <div align="center">
-
-<div align="center" style="display: inline-block;">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
+<img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> 
+<img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">   
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- 
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
- 
-
- 
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
- 
-
- 
-<img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">   
-</div>  
+<img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+<img align="center" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 
 </div>
 
