@@ -88,6 +88,8 @@
 
 ## Links to Other Projects by Ulisses Malanski  
  
+- <a href="https://malanski.github.io/weather-weekly/" title="Weather weekly" target="_blank">Weather Weekly</a>
+- <a href="https://malanski.github.io/sintaxe-e-operadores/" title="Star wars Characters" target="_blank">Star wars Characters</a>
 - <a href="https://malanski.github.io/cron/" title="Cronometer" target="_blank">Cron</a>  
 - <a href="https://poke-store-next.vercel.app//" title="Nextjs Ecommerce Pokemon Store" target="_blank">Poké-Store Next Js</a>
 - <a href="https://malanski.github.io/pokestore-react/" title="Reactjs Ecommerce Pokemon Store" target="_blank">PokéStore React Js</a>  
