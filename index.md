@@ -52,10 +52,6 @@
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
 
-          
-<img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">   
-  
-    
 
 <div align="center">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -87,18 +83,46 @@
   
 
 ## Links to Other Projects by Ulisses Malanski  
- 
-- <a href="https://malanski.github.io/weather-weekly/" title="Weather weekly" target="_blank">Weather Weekly</a>
-- <a href="https://malanski.github.io/sintaxe-e-operadores/" title="Star wars Characters" target="_blank">Star wars Characters</a>
-- <a href="https://malanski.github.io/cron/" title="Cronometer" target="_blank">Cron</a>  
-- <a href="https://poke-store-next.vercel.app//" title="Nextjs Ecommerce Pokemon Store" target="_blank">Poké-Store Next Js</a>
-- <a href="https://malanski.github.io/pokestore-react/" title="Reactjs Ecommerce Pokemon Store" target="_blank">PokéStore React Js</a>  
-- <a href="https://malanski.github.io/GessingColorGame/" title="Color Game JavaScript CSS HTML" target="_blank">Gessing Color Game</a>
-- <a href="https://malanski.github.io/projeto-react-app2/" title="Artistic Portfolium" target="_blank">Portfolium React App</a>
-- <a href="https://malanski.github.io/CalculatorX/" title="JavaScript study Calculator">Calculator</a>  
-- <a href="https://malanski.github.io/pokeLoja2/" title="My Firts Vanilla Ecommerce project">Vanilla Ecommerce Poke Card Game Styled</a>
-- <a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
-- <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
+  
+<a href="https://malanski.github.io/portfolio/" title="Weather weekly" target="_blank">Weather Weekly<br />
+<img src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738" height="160" width="160" /> JavaScript consuming weather API based on your browser GPS location.
+</a>
+<br />
+
+<a href="https://malanski.github.io/weather-weekly/" title="Weather weekly" target="_blank">Weather Weekly<br />
+<img src="https://github.com/malanski/images/raw/main/weather-weekly.png" height="160" width="160" /> JavaScript consuming weather API based on your browser GPS location.
+</a>
+<br />
+
+<a href="https://malanski.github.io/sintaxe-e-operadores/" title="Star wars Characters" target="_blank">Star wars Characters<br />
+<img src="https://github.com/malanski/images/raw/main/starwars1.png" height="160" width="160" /> JavaScript consuming Star Wars API ramdom character search.
+</a>
+<br />
+
+<a href="https://malanski.github.io/cron/" title="ReactJs Stop Watch" target="_blank">Stop Watch Cron<br />
+<img src="https://github.com/malanski/images/raw/main/CronReactJS.png" height="160" width="160" /> JavaScript stopwatch.
+</a>
+<br />
+
+<a href="https://poke-store-next.vercel.app/" title="NextJs API E-commerce" target="_blank">PokeStore NextJs<br />
+<img src="https://github.com/malanski/images/raw/main/pokeStoreNext.png" height="160" width="160" /> JavaScript consuming Pokemon based API in a E-commerce application.
+</a>
+<br />
+
+<a href="https://malanski.github.io/GessingColorGame/" title="Color Game" target="_blank">Guessing Color Game<br />
+<img src="https://github.com/malanski/images/raw/main/color-guessing.png" height="160" width="160" /> JavaScript RGB by numbers guessing based game.
+</a>
+<br />
+
+<a href="https://malanski.github.io/CalculatorX/" title="JavaScript calculator" target="_blank">JavaScript calculator<br />
+<img src="https://github.com/malanski/images/raw/main/calculator.png" height="160" width="160" /> JavaScript calculator. 
+</a>
+<br />
+
+
+<a href="https://malanski.github.io/pokeLoja2/" title="My Firts Vanilla Ecommerce project">Vanilla Ecommerce Poke Card Game Styled</a>
+<a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
+<a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
 
 
             
