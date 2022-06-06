@@ -120,8 +120,13 @@
 <br />
 
 
-<a href="https://malanski.github.io/pokeLoja2/" title="My Firts Vanilla Ecommerce project">Vanilla Ecommerce Poke Card Game Styled</a>
-<a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
+<a href="https://malanski.github.io/pokeLoja2/" title="JS API E-commerce" target="_blank">PokeStore Vanilla<br />
+<img src="https://github.com/malanski/images/raw/main/pokestore1.png" height="160" width="160" /> Card Game Styled JavaScript consuming Pokemon based API in a E-commerce application.
+</a>
+<br />
+
+
+
 <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
 
 
