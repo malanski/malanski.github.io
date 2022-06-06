@@ -84,11 +84,6 @@
 
 ## Links to Other Projects by Ulisses Malanski  
   
-<a href="https://malanski.github.io/portfolio/" title="ReactJs Portfolio" target="_blank">Portfolio<br />
-<img src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738" height="160" width="160" /> My profissional Portfolio.
-</a>
-<br />
-
 <a href="https://malanski.github.io/weather-weekly/" title="Weather weekly" target="_blank">Weather Weekly<br />
 <img src="https://github.com/malanski/images/raw/main/weather-weekly.png" height="160" width="160" /> JavaScript consuming weather API based on your browser GPS location.
 </a>
@@ -125,4 +120,7 @@
 </a>
 <br />
 
-         
+<a href="https://malanski.github.io/portfolio/" title="ReactJs Portfolio" target="_blank">Portfolio<br />
+<img src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738" height="160" width="160" /> My profissional Portfolio.
+</a>
+<br />         
