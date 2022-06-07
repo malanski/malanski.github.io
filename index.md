@@ -5,7 +5,7 @@
 ## Diploma, Courses and Certifications
 - Responsive Wed Design Certification by Free Code Camp 2022 (300hs).
 - JavaScript Algorithms and Data Structures Certification by Free Code Camp 2022(300hs).
-- Drawing Licentiate EMBAP-UNESPAR 2007-2010.
+- Bachelor's Degree on Drawing Licentiate EMBAP-UNESPAR 2007-2010.
  
 ## What I do already know:  
 - Create Responsive web sites and applications whit HTML, CSS and JavaScript.
@@ -21,17 +21,17 @@
 
 ## Full Stack Abilities:  
  
-|FrontEND Technologies         |       |BackEND principles        |
+|FrontEND Technologies         |       | Studying         |
 | :--------------------------- | ----- | :----------------------- |
 |⭐SASS SCSS                   |       |⭐SQL, Sequelize, Postgres |
 |⭐JavaScript                  |       |⭐Dbeaver                  |
 |⭐Nextjs                      |       |⭐SCRUD                    |
-|⭐Reactjs                     |NODE   |⭐TypeScript               |
-|⭐HTML5                       |GIT    |⭐APACHE                   |
-|⭐Bootstrap                   |Github |⭐Cloud                    |
+|⭐Reactjs                     |       |⭐TypeScript               |
+|⭐HTML5                       |       |⭐APACHE                   |
+|⭐Bootstrap                   |       |⭐Cloud                    |
 |⭐Chakra, MUI, Fontawesome    |       |⭐Security                 |
 |⭐SEO                         |       |⭐AWS                      |
-|⭐JQuery                      |       |⭐API REST                 | 
+|⭐API Fetch, Axios            |       |⭐API REST                 | 
   
 ## SOFTWARES I do use on my projects:
 
