@@ -21,7 +21,7 @@
 
 ## Full Stack Abilities:  
  
-|FrontEND Technologies         |       | Studying         |
+| FrontEND Technologies        |       | Studying         |
 | :--------------------------- | ----- | :----------------------- |
 |⭐SASS SCSS                   |       |⭐SQL, Sequelize, Postgres |
 |⭐JavaScript                  |       |⭐Dbeaver                  |
@@ -35,21 +35,22 @@
   
 ## SOFTWARES I do use on my projects:
 
-| Web Dev | Design+Art | Audio       |
-| ------- | ---------- | ----------- |
-| VS code | Photoshopp | Ableton Live|
-| Figma   | Illustrator| Nuendo      |
-| Adobe XD| Premiere   | Fruit Loops |
-| GIT     |            |             |
-| Dbeaver |            |             |
-| Node    |            |             |
+|  | Web Dev |  | Design+Art |  | Audio       |
+| --- | ------- | --- | ---------- | --- | ----------- |
+|  | VS code | <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> | Photoshopp |  | Ableton Live|
+|  | Figma   | <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> | Illustrator|  | Nuendo      |
+|  | Adobe XD|  | Premiere   |  | Fruit Loops |
+|  | GIT     | <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> |            |  |             |
+|  | Dbeaver |  |            |  |             |
+|  | Node    |  |            |  |             |
 
 
 ## I can work both on Windows and Linux(and WLS).   
 
 
  
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
+<img height="190em" src="[
+https://](https://)github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
 
 
@@ -106,6 +107,11 @@
 
 <a href="https://malanski.github.io/GessingColorGame/" title="Color Game" target="_blank">Guessing Color Game<br />
 <img src="https://github.com/malanski/images/raw/main/color-guessing.png" height="160" width="160" /> JavaScript RGB by numbers guessing based game.
+</a>
+<br />
+
+<a href="https://node-example-uli.herokuapp.com/" title="User Form" target="_blank">User Form<br />
+<img src="https://github.com/malanski/images/raw/main/nodeExample.png" height="160" width="160" /> Express + Backend + Heroku deploy.
 </a>
 <br />
 
