@@ -30,27 +30,23 @@
 |⭐HTML5                       |       |⭐APACHE                   |
 |⭐Bootstrap                   |       |⭐Cloud                    |
 |⭐Chakra, MUI, Fontawesome    |       |⭐Security                 |
-|⭐SEO                         |       |⭐AWS                      |
+|⭐SCRUM - Kanban              |       |⭐AWS                      |
 |⭐API Fetch, Axios            |       |⭐API REST                 | 
   
 ## SOFTWARES I do use on my projects:
 
-|  | Web Dev |  | Design+Art |  | Audio       |
-| --- | ------- | --- | ---------- | --- | ----------- |
-|  | VS code | <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> | Photoshopp |  | Ableton Live|
-|  | Figma   | <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> | Illustrator|  | Nuendo      |
-|  | Adobe XD|  | Premiere   |  | Fruit Loops |
-|  | GIT     | <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> |            |  |             |
-|  | Dbeaver |  |            |  |             |
-|  | Node    |  |            |  |             |
-
+| Web Dev |     |     | Design+Art |     |     |  Audio      |     |
+| --- | ------- | --- | --- | ---------- | --- | ----------- | --- |
+| VS code | <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> | | Photoshopp | <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> | | Ableton Live| <img height="60" width="60" src="https://github.com/malanski/images/raw/main/ableton.png"> |
+| Figma   | <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> | | Illustrator| <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /> | | Nuendo      | <img height="60" width="60" src="https://github.com/malanski/images/raw/main/nuendo-logo.png"> |
+| GIT     | <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> | |            |  |             |  |
+| Node    | <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> | |           |  |             |  |
 
 ## I can work both on Windows and Linux(and WLS).   
-
-
  
 <img height="190em" src="[
 https://](https://)github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
+  
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
 
 
